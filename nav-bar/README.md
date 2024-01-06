@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Live Link of this Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project can be viewed with [Live Link](https://kjgdsc-webdev-2.netlify.app).
 
 ## Available Scripts
 
